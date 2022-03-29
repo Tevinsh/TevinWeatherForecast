@@ -1,0 +1,11 @@
+C:\Users\noname\Desktop\OCBC Program\Session_13\TodoApp\bin\Release\net5.0\publish\TodoApp.exe
+C:\Users\noname\Desktop\OCBC Program\Session_13\TodoApp\bin\Release\net5.0\publish\appsettings.Development.json
+C:\Users\noname\Desktop\OCBC Program\Session_13\TodoApp\bin\Release\net5.0\publish\appsettings.json
+C:\Users\noname\Desktop\OCBC Program\Session_13\TodoApp\bin\Release\net5.0\publish\TodoApp.dll
+C:\Users\noname\Desktop\OCBC Program\Session_13\TodoApp\bin\Release\net5.0\publish\TodoApp.deps.json
+C:\Users\noname\Desktop\OCBC Program\Session_13\TodoApp\bin\Release\net5.0\publish\TodoApp.runtimeconfig.json
+C:\Users\noname\Desktop\OCBC Program\Session_13\TodoApp\bin\Release\net5.0\publish\TodoApp.pdb
+C:\Users\noname\Desktop\OCBC Program\Session_13\TodoApp\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\noname\Desktop\OCBC Program\Session_13\TodoApp\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\noname\Desktop\OCBC Program\Session_13\TodoApp\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\noname\Desktop\OCBC Program\Session_13\TodoApp\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
